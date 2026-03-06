@@ -19,8 +19,7 @@ Tujuan:
 - [x] Install Golang
 - [x] Setup Go Module
 - [x] Hello World
-- [x] Variable dan Data Type
-- [x] If Else
-- [x] For Loop
+- [x] Sample Multimain
+- [x] Number
 
 ---
