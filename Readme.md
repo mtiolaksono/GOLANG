@@ -21,5 +21,6 @@ Tujuan:
 - [x] Hello World
 - [x] Sample Multimain
 - [x] Number
+- [x] Boolean
 
 ---
