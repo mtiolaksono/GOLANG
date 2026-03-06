@@ -22,5 +22,6 @@ Tujuan:
 - [x] Sample Multimain
 - [x] Number
 - [x] Boolean
-
+- [x] string
+- [x] variabel
 ---
