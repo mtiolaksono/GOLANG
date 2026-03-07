@@ -25,4 +25,6 @@ Tujuan:
 - [x] String
 - [x] Variabel
 - [x] Constant
+- [x] Coversion
+
 ---
